@@ -1,5 +1,9 @@
 # Changelogs
 
+## v1.4.2
+
+-   Fix multi-switch devices being renamed to "undefined"-1/2 and keep them in list after they came "unavailable"
+
 ## v1.4.1
 
 -   Fix color temperature bug
